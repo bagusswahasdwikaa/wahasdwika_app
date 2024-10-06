@@ -21,4 +21,30 @@ A few resources to get you started if this is your first Flutter project:
 
 ![alt text](image-2.png)
 
-3. 
+3. Make the app prettier
+
+    This wraps the Padding widget, and therefore also the Text, with a Card widget:
+
+![alt text](image-3.png)
+
+    The card is now painted with the app's primary color:
+
+![alt text](image-4.png)
+
+    The app should now look something like the following:
+
+![alt text](image-5.png)
+
+    This centers the children inside the Column along its main (vertical) axis:
+
+![alt text](image-6.png)
+
+    The app should now look something like the following:
+
+![alt text](image-7.png)
+
+    And the app looks like the following:
+
+![alt text](image-8.png)
+
+4. Add functionality
