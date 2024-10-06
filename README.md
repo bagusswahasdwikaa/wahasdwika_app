@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 1. Create a Project:
 
 ![alt text](image.png)
+
+2. Add a button
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+3. 
