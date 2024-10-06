@@ -45,6 +45,6 @@ A few resources to get you started if this is your first Flutter project:
 
     And the app looks like the following:
 
-![alt text](image-8.png)
+![alt text](image-9.png)
 
 4. Add functionality
