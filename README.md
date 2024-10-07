@@ -63,8 +63,6 @@ A few resources to get you started if this is your first Flutter project:
 
 6. Add a new page
 
-![alt text](image-15.png)
-
 ![alt text](image-16.png)
 
 ![alt text](image-17.png)
