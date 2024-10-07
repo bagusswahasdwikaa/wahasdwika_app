@@ -48,3 +48,25 @@ A few resources to get you started if this is your first Flutter project:
 ![alt text](image-9.png)
 
 4. Add functionality
+
+![alt text](image-10.png)
+
+5. Add navigation rail
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+6. Add a new page
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
